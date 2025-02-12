@@ -1,0 +1,12 @@
+pandas
+requests
+beautifulsoup4
+pytrends
+advertools
+matplotlib
+seaborn
+nltk
+flask
+openpyxl
+plotly
+selenium

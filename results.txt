@@ -1,0 +1,19 @@
+4. Follow the prompts to input keywords and generate results.
+
+## Example Input
+Column 1: Best, Cheap  
+Column 2: SEO Tools, Keyword Research  
+Column 3: Online, Free  
+
+## Example Output
+| Keyword                   | Search Volume |
+|---------------------------|---------------|
+| Best SEO Tools Online     | 2000          |
+| Cheap Keyword Research Free | 2500       |
+
+## Created By
+Master Jay  
+Telegram: @jaymali841  
+
+## License
+This project is licensed under the MIT License.
